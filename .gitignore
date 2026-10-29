@@ -3,3 +3,5 @@ var/
 .env
 *.png
 .claude/skills
+.mega-challenge-log.md
+preview-*.html
